@@ -1,4 +1,4 @@
-package lesson3;
+package stringproblems;
 
 public class problem3 {
     public static void main(String[] args) {
