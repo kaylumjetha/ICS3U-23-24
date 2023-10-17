@@ -22,5 +22,6 @@ public class DeclaringVariablesEx1 {
         a = 0; //assigned a to 0
         System.out.println(a);
 
+
     }
 }
