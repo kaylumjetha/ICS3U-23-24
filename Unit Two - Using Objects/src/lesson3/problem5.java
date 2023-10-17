@@ -6,5 +6,7 @@ public class problem5 {
         String b = "Jetha";
         String result = a.substring(1, 6) + " " + b.substring(1, 5);
         System.out.println(result);
+
+        // hello my name is kaylum
     }
 }
