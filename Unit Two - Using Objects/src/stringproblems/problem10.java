@@ -4,8 +4,8 @@ public class problem10 {
         String one = "Acceptive";
         int x = 3;
 
-        String result = one.substring(0,3)+one.substring(6);
+        String result = one.substring(0,x)+one.substring(6);
         System.out.println(result);
-        }
+            }
     }
 

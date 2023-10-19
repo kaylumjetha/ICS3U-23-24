@@ -16,5 +16,7 @@ public class problem15 {
         //
     System.out.println("Your inputs combined minus the first and last characters is" );
     System.out.println(results);
+
+    in.close();
     }
 }
