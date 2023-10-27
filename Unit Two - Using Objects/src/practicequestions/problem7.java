@@ -10,10 +10,6 @@ public class problem7 {
         System.out.println(" ");
 
         System.out.println("The index of the first occurance of the strings is " + x.indexOf(y));
-
-
-
-
-
+        
     }
 }

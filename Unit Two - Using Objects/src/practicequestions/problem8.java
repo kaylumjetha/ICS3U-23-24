@@ -13,6 +13,7 @@ public class problem8 {
         System.out.println(" ");
 
         System.out.println("The two strings combined is " + x+y);
+        in.close();
 
     }
 }
